@@ -5,11 +5,13 @@ Original toolbox published at https://github.com/anders-s-olsen/CopBET.git.
 ## Installation guide
 To use this package follow the steps below.
 1. Install this package using
+
 ```pip install CopBET```
 
-2. [Install the MATLAB engine API for Python](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html).
+3. [Install the MATLAB engine API for Python](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html).
 
-3. Clone the original CopBET repository to your machine (although some of the helper functions will work just fine without).
+4. Clone the original CopBET repository to your machine (although some of the helper functions will work just fine without).
+
 ```git clone https://github.com/anders-s-olsen/CopBET.git```
 
 ## Example script
