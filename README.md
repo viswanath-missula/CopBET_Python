@@ -5,12 +5,12 @@ Original toolbox published at https://github.com/anders-s-olsen/CopBET.git.
 ## Installation guide
 To use this package follow the steps below.
 1. Install this package using
-`pip install CopBET`
+```pip install CopBET```
 
 2. [Install the MATLAB engine API for Python](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html).
 
 3. Clone the original CopBET repository to your machine (although some of the helper functions will work just fine without).
-`git clone https://github.com/anders-s-olsen/CopBET.git`
+```git clone https://github.com/anders-s-olsen/CopBET.git```
 
 ## Example script
 I have included an example script titled `CopBET_python_tutorial.ipynb` showing examples and explanations of how to use this wrapper. The example script runs using the openly available [acute IV LSD dataset](https://openneuro.org/datasets/ds003059) that was included in original repository's example script. Unlike the original repository, the example was not written to be used on the entire original dataset but rather the smaller sample already in the /CopBET/LSDdata folder.
